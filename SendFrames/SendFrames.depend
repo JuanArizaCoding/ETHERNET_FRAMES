@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685096148 source:c:\users\juana\onedrive\escritorio\infor_2\redes\sendframes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pcap.h"
+

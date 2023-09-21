@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1685354488 source:c:\users\juana\onedrive\escritorio\infor_2\redes\receive_frames\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pcap.h"
+
+1695282454 source:c:\users\juana\onedrive\escritorio\chorizo\infor_2\redes\tramas_juanivan\receive_frames\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pcap.h"
+
